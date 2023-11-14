@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-👋 Hi, I'm Daniel Dasilva,a passionate self-taught backend developer from Argentina 🚀. 
+👋 Hi, I'm Daniel Dasilva,a passionate self-taught full-stack developer from Argentina 🚀. 
 
 <img align='center' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
